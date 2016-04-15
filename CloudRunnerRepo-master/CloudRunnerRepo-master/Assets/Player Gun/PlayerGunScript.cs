@@ -4,7 +4,7 @@ using System.Collections;
 public class PlayerGunScript : MonoBehaviour {
 
     Vector3 mousePosition;
-    GameObject playerGun
+    GameObject playerGun;
 
     void Start ()
     {
