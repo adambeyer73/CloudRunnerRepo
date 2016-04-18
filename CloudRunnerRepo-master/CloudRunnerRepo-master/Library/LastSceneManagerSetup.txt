@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/testScene.unity
+- path: Assets/2D Sky FREE/_Scenes/_scene.unity
   isLoaded: 1
   isActive: 1

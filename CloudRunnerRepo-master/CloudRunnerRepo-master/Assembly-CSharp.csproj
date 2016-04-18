@@ -46,10 +46,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Player Gun\PlayerGunScript.cs" />
+     <Compile Include="Assets\Scripts\BagInterface.cs" />
      <Compile Include="Assets\Scripts\CloudFlow.cs" />
      <Compile Include="Assets\Scripts\Platform_Fall.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PowerUps.cs" />
      <Compile Include="Assets\Scripts\SkyBG.cs" />
+     <Compile Include="Assets\Scripts\bagPack.cs" />
      <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\2D Sky FREE\!Readme.txt" />
  <Reference Include="UnityEngine.UI">
