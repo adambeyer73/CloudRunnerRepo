@@ -1,0 +1,3705 @@
+fileFormatVersion: 2
+guid: 91cf5e28a24087340a4c940c0c84544e
+timeCreated: 1461278862
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_spritesheet_0
+    21300002: player_spritesheet_1
+    21300004: player_spritesheet_2
+    21300006: player_spritesheet_3
+    21300008: player_spritesheet_4
+    21300010: player_spritesheet_5
+    21300012: player_spritesheet_6
+    21300014: player_spritesheet_7
+    21300016: player_spritesheet_8
+    21300018: player_spritesheet_9
+    21300020: player_spritesheet_10
+    21300022: player_spritesheet_11
+    21300024: player_spritesheet_12
+    21300026: player_spritesheet_13
+    21300028: player_spritesheet_14
+    21300030: player_spritesheet_15
+    21300032: player_spritesheet_16
+    21300034: player_spritesheet_17
+    21300036: player_spritesheet_18
+    21300038: player_spritesheet_19
+    21300040: player_spritesheet_20
+    21300042: player_spritesheet_21
+    21300044: player_spritesheet_22
+    21300046: player_spritesheet_23
+    21300048: player_spritesheet_24
+    21300050: player_spritesheet_25
+    21300052: player_spritesheet_26
+    21300054: player_spritesheet_27
+    21300056: player_spritesheet_28
+    21300058: player_spritesheet_29
+    21300060: player_spritesheet_30
+    21300062: player_spritesheet_31
+    21300064: player_spritesheet_32
+    21300066: player_spritesheet_33
+    21300068: player_spritesheet_34
+    21300070: player_spritesheet_35
+    21300072: player_idle_left
+    21300074: player_spritesheet_37
+    21300076: player_spritesheet_38
+    21300078: player_spritesheet_39
+    21300080: player_spritesheet_40
+    21300082: player_spritesheet_41
+    21300084: player_spritesheet_42
+    21300086: player_spritesheet_43
+    21300088: player_spritesheet_44
+    21300090: player_spritesheet_45
+    21300092: player_spritesheet_46
+    21300094: player_spritesheet_47
+    21300096: player_spritesheet_48
+    21300098: player_spritesheet_49
+    21300100: player_spritesheet_50
+    21300102: player_spritesheet_51
+    21300104: player_idle_right
+    21300106: player_spritesheet_53
+    21300108: player_spritesheet_54
+    21300110: player_spritesheet_55
+    21300112: player_spritesheet_56
+    21300114: player_spritesheet_57
+    21300116: player_spritesheet_58
+    21300118: player_spritesheet_59
+    21300120: player_spritesheet_60
+    21300122: player_spritesheet_61
+    21300124: player_spritesheet_62
+    21300126: player_spritesheet_63
+    21300128: player_spritesheet_64
+    21300130: player_spritesheet_65
+    21300132: player_spritesheet_66
+    21300134: player_spritesheet_67
+    21300136: player_spritesheet_68
+    21300138: player_walking_left_0
+    21300140: player_walking_left_1
+    21300142: player_walking_left_2
+    21300144: player_walking_left_3
+    21300146: player_walking_left_4
+    21300148: player_walking_left_5
+    21300150: player_walking_left_6
+    21300152: player_walking_left_7
+    21300154: player_walking_left_8
+    21300156: player_spritesheet_78
+    21300158: player_spritesheet_79
+    21300160: player_spritesheet_80
+    21300162: player_spritesheet_81
+    21300164: player_spritesheet_82
+    21300166: player_spritesheet_83
+    21300168: player_spritesheet_84
+    21300170: player_spritesheet_85
+    21300172: player_spritesheet_86
+    21300174: player_walking_right_0
+    21300176: player_walking_right_1
+    21300178: player_walking_right_2
+    21300180: player_walking_right_3
+    21300182: player_walking_right_4
+    21300184: player_walking_right_5
+    21300186: player_walking_right_6
+    21300188: player_walking_right_7
+    21300190: player_walking_right_8
+    21300192: player_spritesheet_96
+    21300194: player_spritesheet_97
+    21300196: player_spritesheet_98
+    21300198: player_spritesheet_99
+    21300200: player_spritesheet_100
+    21300202: player_spritesheet_101
+    21300204: player_spritesheet_102
+    21300206: player_spritesheet_103
+    21300208: player_spritesheet_104
+    21300210: player_spritesheet_105
+    21300212: player_spritesheet_106
+    21300214: player_spritesheet_107
+    21300216: player_spritesheet_108
+    21300218: player_spritesheet_109
+    21300220: player_spritesheet_110
+    21300222: player_spritesheet_111
+    21300224: player_spritesheet_112
+    21300226: player_spritesheet_113
+    21300228: player_spritesheet_114
+    21300230: player_spritesheet_115
+    21300232: player_spritesheet_116
+    21300234: player_spritesheet_117
+    21300236: player_spritesheet_118
+    21300238: player_spritesheet_119
+    21300240: player_spritesheet_120
+    21300242: player_spritesheet_121
+    21300244: player_spritesheet_122
+    21300246: player_spritesheet_123
+    21300248: player_spritesheet_124
+    21300250: player_spritesheet_125
+    21300252: player_spritesheet_126
+    21300254: player_spritesheet_127
+    21300256: player_spritesheet_128
+    21300258: player_spritesheet_129
+    21300260: player_spritesheet_130
+    21300262: player_spritesheet_131
+    21300264: player_spritesheet_132
+    21300266: player_spritesheet_133
+    21300268: player_spritesheet_134
+    21300270: player_spritesheet_135
+    21300272: player_spritesheet_136
+    21300274: player_spritesheet_137
+    21300276: player_spritesheet_138
+    21300278: player_spritesheet_139
+    21300280: player_spritesheet_140
+    21300282: player_spritesheet_141
+    21300284: player_spritesheet_142
+    21300286: player_spritesheet_143
+    21300288: player_spritesheet_144
+    21300290: player_spritesheet_145
+    21300292: player_spritesheet_146
+    21300294: player_spritesheet_147
+    21300296: player_spritesheet_148
+    21300298: player_spritesheet_149
+    21300300: player_spritesheet_150
+    21300302: player_spritesheet_151
+    21300304: player_spritesheet_152
+    21300306: player_spritesheet_153
+    21300308: player_spritesheet_154
+    21300310: player_spritesheet_155
+    21300312: player_spritesheet_156
+    21300314: player_spritesheet_157
+    21300316: player_spritesheet_158
+    21300318: player_spritesheet_159
+    21300320: player_spritesheet_160
+    21300322: player_spritesheet_161
+    21300324: player_spritesheet_162
+    21300326: player_spritesheet_163
+    21300328: player_spritesheet_164
+    21300330: player_spritesheet_165
+    21300332: player_spritesheet_166
+    21300334: player_spritesheet_167
+    21300336: player_spritesheet_168
+    21300338: player_spritesheet_169
+    21300340: player_spritesheet_170
+    21300342: player_spritesheet_171
+    21300344: player_spritesheet_172
+    21300346: player_spritesheet_173
+    21300348: player_spritesheet_174
+    21300350: player_spritesheet_175
+    21300352: player_spritesheet_176
+    21300354: player_spritesheet_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 14.738098}
+        - {x: -4.5, y: 14.738098}
+        - {x: -11.5, y: 13.738098}
+        - {x: -13.5, y: 0.73809814}
+        - {x: -13.5, y: -20.261902}
+        - {x: -12.5, y: -24.261902}
+        - {x: 11.5, y: -24.261902}
+        - {x: 13.5, y: -20.261902}
+        - {x: 13.5, y: -2.2619019}
+        - {x: 10.5, y: 11.738098}
+    - name: player_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.238094, y: 14.738098}
+        - {x: -12.238094, y: 9.738098}
+        - {x: -12.238094, y: -21.261902}
+        - {x: -11.238094, y: -24.261902}
+        - {x: 13.761906, y: -24.261902}
+        - {x: 13.761906, y: 12.738098}
+        - {x: 8.761906, y: 14.738098}
+    - name: player_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.523811, y: 14.738098}
+        - {x: -9.476189, y: 14.738098}
+        - {x: -12.476189, y: 11.738098}
+        - {x: -12.476189, y: -22.261902}
+        - {x: -11.476189, y: -24.261902}
+        - {x: 11.523811, y: -24.261902}
+        - {x: 13.523811, y: -21.261902}
+        - {x: 13.523811, y: 9.738098}
+    - name: player_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.714279, y: 14.738098}
+        - {x: -15.714279, y: 6.738098}
+        - {x: -15.714279, y: -18.261902}
+        - {x: -13.714279, y: -24.261902}
+        - {x: 12.285721, y: -24.261902}
+        - {x: 16.28572, y: -11.261902}
+        - {x: 16.28572, y: 2.7380981}
+        - {x: 9.285721, y: 14.738098}
+    - name: player_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.452377, y: 14.738098}
+        - {x: -19.452377, y: 6.738098}
+        - {x: -21.452377, y: 4.738098}
+        - {x: -21.452377, y: -13.261902}
+        - {x: -15.452377, y: -24.261902}
+        - {x: 17.547623, y: -24.261902}
+        - {x: 21.547623, y: -17.261902}
+        - {x: 21.547623, y: 5.738098}
+        - {x: 13.547623, y: 14.738098}
+    - name: player_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.809525, y: 14.738098}
+        - {x: -19.190475, y: 14.738098}
+        - {x: -19.190475, y: -24.261902}
+        - {x: 13.809525, y: -24.261902}
+        - {x: 21.809525, y: -6.261902}
+        - {x: 21.809525, y: 10.738098}
+        - {x: 19.809525, y: 11.738098}
+    - name: player_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.571442, y: 12.738098}
+        - {x: 8.571442, y: 14.738098}
+        - {x: -3.4285583, y: 14.738098}
+        - {x: -10.428558, y: 12.738098}
+        - {x: -15.428558, y: 2.7380981}
+        - {x: -15.428558, y: -19.261902}
+        - {x: -14.428558, y: -24.261902}
+        - {x: 12.571442, y: -24.261902}
+        - {x: 16.571442, y: -19.261902}
+        - {x: 16.571442, y: -1.2619019}
+    - name: player_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 15.476196}
+        - {x: -9.5, y: 10.476196}
+        - {x: -9.5, y: -23.523804}
+        - {x: -7.5, y: -24.523804}
+        - {x: 10.5, y: -24.523804}
+        - {x: 10.5, y: 13.476196}
+        - {x: 6.5, y: 15.476196}
+    - name: player_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.761906, y: -24.523804}
+        - {x: 12.761906, y: 15.476196}
+        - {x: -5.2380943, y: 15.476196}
+        - {x: -10.238094, y: 11.476196}
+        - {x: -10.238094, y: -24.523804}
+    - name: player_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4761887, y: 15.476196}
+        - {x: -9.476189, y: 14.476196}
+        - {x: -9.476189, y: -23.523804}
+        - {x: -7.4761887, y: -24.523804}
+        - {x: 11.523811, y: -24.523804}
+        - {x: 11.523811, y: 12.476196}
+        - {x: 8.523811, y: 15.476196}
+    - name: player_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.7142792, y: 15.476196}
+        - {x: -9.714279, y: 13.476196}
+        - {x: -11.714279, y: 5.4761963}
+        - {x: -11.714279, y: -12.523804}
+        - {x: -9.714279, y: -24.523804}
+        - {x: 13.285721, y: -24.523804}
+        - {x: 13.285721, y: 15.476196}
+    - name: player_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.452377, y: 15.476196}
+        - {x: -13.452377, y: 14.476196}
+        - {x: -13.452377, y: -24.523804}
+        - {x: 8.547623, y: -24.523804}
+        - {x: 16.547623, y: -10.523804}
+        - {x: 16.547623, y: 2.4761963}
+        - {x: 12.547623, y: 15.476196}
+    - name: player_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.809525, y: 15.476196}
+        - {x: -4.1904755, y: 15.476196}
+        - {x: -12.190475, y: 8.476196}
+        - {x: -12.190475, y: -15.523804}
+        - {x: -11.190475, y: -23.523804}
+        - {x: -8.190475, y: -24.523804}
+        - {x: 6.8095245, y: -24.523804}
+        - {x: 11.809525, y: -22.523804}
+        - {x: 17.809525, y: -0.5238037}
+        - {x: 17.809525, y: 7.4761963}
+    - name: player_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5714417, y: 15.476196}
+        - {x: -3.4285583, y: 15.476196}
+        - {x: -8.428558, y: 14.476196}
+        - {x: -11.428558, y: 1.4761963}
+        - {x: -11.428558, y: -8.523804}
+        - {x: -9.428558, y: -18.523804}
+        - {x: -7.4285583, y: -24.523804}
+        - {x: 9.571442, y: -24.523804}
+        - {x: 15.571442, y: -13.523804}
+        - {x: 15.571442, y: -0.5238037}
+        - {x: 11.571442, y: 10.476196}
+    - name: player_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 15.714294}
+        - {x: -8.5, y: 15.714294}
+        - {x: -10.5, y: 10.714294}
+        - {x: -13.5, y: -2.2857056}
+        - {x: -13.5, y: -23.285706}
+        - {x: -10.5, y: -24.285706}
+        - {x: 13.5, y: -24.285706}
+        - {x: 13.5, y: 9.714294}
+        - {x: 12.5, y: 14.714294}
+    - name: player_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.238094, y: 15.714294}
+        - {x: -13.238094, y: 14.714294}
+        - {x: -13.238094, y: -24.285706}
+        - {x: 14.761906, y: -24.285706}
+        - {x: 14.761906, y: 14.714294}
+        - {x: 9.761906, y: 15.714294}
+    - name: player_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.476189, y: 15.714294}
+        - {x: -12.476189, y: -24.285706}
+        - {x: 13.523811, y: -24.285706}
+        - {x: 13.523811, y: 5.7142944}
+        - {x: 10.523811, y: 15.714294}
+    - name: player_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.285721, y: 10.714294}
+        - {x: 8.285721, y: 15.714294}
+        - {x: -5.714279, y: 15.714294}
+        - {x: -12.714279, y: 14.714294}
+        - {x: -15.714279, y: -0.28570557}
+        - {x: -15.714279, y: -17.285706}
+        - {x: -13.714279, y: -23.285706}
+        - {x: -10.714279, y: -24.285706}
+        - {x: 9.285721, y: -24.285706}
+        - {x: 12.285721, y: -22.285706}
+        - {x: 16.28572, y: -13.285706}
+        - {x: 16.28572, y: -3.2857056}
+    - name: player_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5476227, y: 15.714294}
+        - {x: -5.4523773, y: 15.714294}
+        - {x: -21.452377, y: 3.7142944}
+        - {x: -21.452377, y: -12.285706}
+        - {x: -14.452377, y: -24.285706}
+        - {x: 14.547623, y: -24.285706}
+        - {x: 21.547623, y: -15.285706}
+        - {x: 21.547623, y: 5.7142944}
+        - {x: 19.547623, y: 6.7142944}
+    - name: player_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.809525, y: 10.714294}
+        - {x: 12.809525, y: 8.714294}
+        - {x: 6.8095245, y: 15.714294}
+        - {x: -4.1904755, y: 15.714294}
+        - {x: -19.190475, y: 9.714294}
+        - {x: -19.190475, y: -3.2857056}
+        - {x: -10.190475, y: -24.285706}
+        - {x: 15.809525, y: -24.285706}
+        - {x: 21.809525, y: -9.285706}
+        - {x: 21.809525, y: 9.714294}
+        - {x: 17.809525, y: 10.714294}
+    - name: player_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5714417, y: 15.714294}
+        - {x: -10.428558, y: 15.714294}
+        - {x: -13.428558, y: 12.714294}
+        - {x: -14.428558, y: 6.7142944}
+        - {x: -14.428558, y: -24.285706}
+        - {x: 15.571442, y: -24.285706}
+        - {x: 15.571442, y: 9.714294}
+        - {x: 14.571442, y: 13.714294}
+    - name: player_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 16.952393}
+        - {x: -4.5, y: 16.952393}
+        - {x: -10.5, y: 14.952393}
+        - {x: -10.5, y: -16.047607}
+        - {x: -7.5, y: -24.047607}
+        - {x: 2.5, y: -24.047607}
+        - {x: 9.5, y: -21.047607}
+        - {x: 9.5, y: 10.952393}
+    - name: player_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.238094, y: 16.952393}
+        - {x: -10.238094, y: 13.952393}
+        - {x: -10.238094, y: -17.047607}
+        - {x: -7.2380943, y: -24.047607}
+        - {x: 11.761906, y: -24.047607}
+        - {x: 11.761906, y: 15.952393}
+        - {x: 10.761906, y: 16.952393}
+    - name: player_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4761887, y: 16.952393}
+        - {x: -10.476189, y: 15.952393}
+        - {x: -10.476189, y: -22.047607}
+        - {x: -7.4761887, y: -24.047607}
+        - {x: 8.523811, y: -24.047607}
+        - {x: 10.523811, y: -15.047607}
+        - {x: 10.523811, y: 6.9523926}
+        - {x: 8.523811, y: 16.952393}
+    - name: player_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.714279, y: 16.952393}
+        - {x: -12.714279, y: 7.9523926}
+        - {x: -12.714279, y: -19.047607}
+        - {x: -8.714279, y: -24.047607}
+        - {x: 10.285721, y: -24.047607}
+        - {x: 11.285721, y: -20.047607}
+        - {x: 11.285721, y: 6.9523926}
+        - {x: 6.285721, y: 16.952393}
+    - name: player_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4523773, y: 16.952393}
+        - {x: -13.452377, y: 14.952393}
+        - {x: -16.452377, y: 10.952393}
+        - {x: -16.452377, y: -14.047607}
+        - {x: -4.4523773, y: -24.047607}
+        - {x: 13.547623, y: -24.047607}
+        - {x: 13.547623, y: 16.952393}
+    - name: player_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.1904755, y: 16.952393}
+        - {x: -16.190475, y: 7.9523926}
+        - {x: -16.190475, y: 0.9523926}
+        - {x: -11.190475, y: -4.0476074}
+        - {x: -7.1904755, y: -20.047607}
+        - {x: -5.1904755, y: -24.047607}
+        - {x: 8.809525, y: -24.047607}
+        - {x: 13.809525, y: -22.047607}
+        - {x: 13.809525, y: 10.952393}
+        - {x: 11.809525, y: 16.952393}
+    - name: player_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4285583, y: 16.952393}
+        - {x: -11.428558, y: 12.952393}
+        - {x: -14.428558, y: 0.9523926}
+        - {x: -14.428558, y: -12.047607}
+        - {x: -8.428558, y: -24.047607}
+        - {x: 5.5714417, y: -24.047607}
+        - {x: 12.571442, y: -22.047607}
+        - {x: 12.571442, y: 5.9523926}
+        - {x: 8.571442, y: 16.952393}
+    - name: player_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.690491}
+        - {x: -12.5, y: 13.690491}
+        - {x: -13.5, y: -3.3095093}
+        - {x: -13.5, y: -18.30951}
+        - {x: -11.5, y: -24.30951}
+        - {x: 13.5, y: -24.30951}
+        - {x: 13.5, y: 4.6904907}
+        - {x: 8.5, y: 14.690491}
+    - name: player_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.238094, y: 13.690491}
+        - {x: -10.238094, y: 9.690491}
+        - {x: -10.238094, y: -24.30951}
+        - {x: 13.761906, y: -24.30951}
+        - {x: 13.761906, y: 9.690491}
+        - {x: 9.761906, y: 13.690491}
+    - name: player_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.476189, y: 14.690491}
+        - {x: -9.476189, y: -24.30951}
+        - {x: 11.523811, y: -24.30951}
+        - {x: 11.523811, y: 8.690491}
+        - {x: 10.523811, y: 14.690491}
+    - name: player_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.285721, y: 14.690491}
+        - {x: -6.714279, y: 14.690491}
+        - {x: -9.714279, y: 13.690491}
+        - {x: -9.714279, y: -23.30951}
+        - {x: -6.714279, y: -24.30951}
+        - {x: 11.285721, y: -24.30951}
+        - {x: 11.285721, y: 12.690491}
+    - name: player_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.547623, y: 13.690491}
+        - {x: -7.4523773, y: 13.690491}
+        - {x: -9.452377, y: 6.6904907}
+        - {x: -9.452377, y: -22.30951}
+        - {x: -5.4523773, y: -24.30951}
+        - {x: 10.547623, y: -24.30951}
+        - {x: 12.547623, y: -12.309509}
+        - {x: 12.547623, y: 12.690491}
+    - name: player_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.190475, y: 13.690491}
+        - {x: -8.190475, y: -22.30951}
+        - {x: -4.1904755, y: -24.30951}
+        - {x: 11.809525, y: -24.30951}
+        - {x: 13.809525, y: -10.309509}
+        - {x: 13.809525, y: 12.690491}
+        - {x: 8.809525, y: 13.690491}
+    - name: player_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4285583, y: 13.690491}
+        - {x: -8.428558, y: 12.690491}
+        - {x: -8.428558, y: -20.30951}
+        - {x: -7.4285583, y: -24.30951}
+        - {x: 10.571442, y: -24.30951}
+        - {x: 12.571442, y: -18.30951}
+        - {x: 12.571442, y: 8.690491}
+        - {x: 8.571442, y: 13.690491}
+    - name: player_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.6666565, y: 14.690491}
+        - {x: -9.6666565, y: 12.690491}
+        - {x: -9.6666565, y: -1.3095093}
+        - {x: -7.6666565, y: -19.30951}
+        - {x: -2.6666565, y: -24.30951}
+        - {x: 11.3333435, y: -24.30951}
+        - {x: 11.3333435, y: 14.690491}
+    - name: player_idle_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 15.428589}
+        - {x: -9.5, y: 11.428589}
+        - {x: -9.5, y: -23.571411}
+        - {x: -7.5, y: -24.571411}
+        - {x: 10.5, y: -24.571411}
+        - {x: 10.5, y: 14.428589}
+        - {x: 7.5, y: 15.428589}
+    - name: player_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2380943, y: 15.428589}
+        - {x: -8.238094, y: 13.428589}
+        - {x: -11.238094, y: 0.42858887}
+        - {x: -11.238094, y: -14.571411}
+        - {x: -8.238094, y: -24.571411}
+        - {x: 10.761906, y: -24.571411}
+        - {x: 12.761906, y: -18.571411}
+        - {x: 12.761906, y: 8.428589}
+        - {x: 9.761906, y: 15.428589}
+      - - {x: -0.23809433, y: 25.428589}
+        - {x: 0.76190567, y: 22.428589}
+        - {x: 7.7619057, y: 22.428589}
+        - {x: 9.761906, y: 24.428589}
+        - {x: 9.761906, y: 25.428589}
+    - name: player_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.476189, y: 15.428589}
+        - {x: -11.476189, y: 13.428589}
+        - {x: -11.476189, y: -16.571411}
+        - {x: -7.4761887, y: -24.571411}
+        - {x: 7.5238113, y: -24.571411}
+        - {x: 13.523811, y: -17.571411}
+        - {x: 13.523811, y: 5.428589}
+        - {x: 10.523811, y: 15.428589}
+      - - {x: -1.4761887, y: 25.428589}
+        - {x: -0.47618866, y: 22.428589}
+        - {x: 6.5238113, y: 22.428589}
+        - {x: 8.523811, y: 24.428589}
+        - {x: 8.523811, y: 25.428589}
+    - name: player_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.7142792, y: 15.428589}
+        - {x: -9.714279, y: 14.428589}
+        - {x: -9.714279, y: -24.571411}
+        - {x: 14.285721, y: -24.571411}
+        - {x: 14.285721, y: 15.428589}
+      - - {x: -1.7142792, y: 25.428589}
+        - {x: -0.7142792, y: 22.428589}
+        - {x: 5.285721, y: 22.428589}
+        - {x: 7.285721, y: 24.428589}
+        - {x: 7.285721, y: 25.428589}
+    - name: player_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.452377, y: 15.428589}
+        - {x: -15.452377, y: -24.571411}
+        - {x: 9.547623, y: -24.571411}
+        - {x: 9.547623, y: 14.428589}
+        - {x: 8.547623, y: 15.428589}
+      - - {x: -1.4523773, y: 25.428589}
+        - {x: -0.45237732, y: 22.428589}
+        - {x: 5.5476227, y: 22.428589}
+        - {x: 7.5476227, y: 24.428589}
+        - {x: 7.5476227, y: 25.428589}
+    - name: player_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.190475, y: 15.428589}
+        - {x: -10.190475, y: 13.428589}
+        - {x: -11.190475, y: 9.428589}
+        - {x: -16.190475, y: -1.5714111}
+        - {x: -16.190475, y: -10.571411}
+        - {x: -12.190475, y: -24.571411}
+        - {x: 10.809525, y: -24.571411}
+        - {x: 10.809525, y: 11.428589}
+        - {x: 9.809525, y: 15.428589}
+      - - {x: -0.19047546, y: 25.428589}
+        - {x: 0.80952454, y: 22.428589}
+        - {x: 6.8095245, y: 22.428589}
+        - {x: 8.809525, y: 24.428589}
+        - {x: 8.809525, y: 25.428589}
+    - name: player_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.428558, y: 15.428589}
+        - {x: -14.428558, y: -14.571411}
+        - {x: -9.428558, y: -24.571411}
+        - {x: 10.571442, y: -24.571411}
+        - {x: 10.571442, y: 15.428589}
+      - - {x: -1.4285583, y: 25.428589}
+        - {x: -0.42855835, y: 22.428589}
+        - {x: 6.5714417, y: 22.428589}
+        - {x: 8.571442, y: 24.428589}
+        - {x: 8.571442, y: 25.428589}
+    - name: player_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.3333435, y: 15.428589}
+        - {x: -3.6666565, y: 15.428589}
+        - {x: -8.6666565, y: 11.428589}
+        - {x: -9.6666565, y: 2.4285889}
+        - {x: -9.6666565, y: -24.571411}
+        - {x: 11.3333435, y: -24.571411}
+        - {x: 14.3333435, y: -13.571411}
+        - {x: 14.3333435, y: 1.4285889}
+        - {x: 11.3333435, y: 10.428589}
+      - - {x: -1.6666565, y: 25.428589}
+        - {x: -0.6666565, y: 22.428589}
+        - {x: 5.3333435, y: 22.428589}
+        - {x: 7.3333435, y: 24.428589}
+        - {x: 7.3333435, y: 25.428589}
+    - name: player_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 15.666687}
+        - {x: -8.5, y: 15.666687}
+        - {x: -10.5, y: 10.666687}
+        - {x: -13.5, y: -2.333313}
+        - {x: -13.5, y: -23.333313}
+        - {x: -10.5, y: -24.333313}
+        - {x: 13.5, y: -24.333313}
+        - {x: 13.5, y: 9.666687}
+        - {x: 12.5, y: 14.666687}
+    - name: player_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.761906, y: -23.333313}
+        - {x: 11.761906, y: 15.666687}
+        - {x: -9.238094, y: 15.666687}
+        - {x: -11.238094, y: 14.666687}
+        - {x: -11.238094, y: -23.333313}
+    - name: player_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4761887, y: 15.666687}
+        - {x: -10.476189, y: 14.666687}
+        - {x: -10.476189, y: -22.333313}
+        - {x: -5.4761887, y: -23.333313}
+        - {x: 11.523811, y: -23.333313}
+        - {x: 11.523811, y: 12.666687}
+        - {x: 9.523811, y: 15.666687}
+    - name: player_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.714279, y: 15.666687}
+        - {x: -12.714279, y: 8.666687}
+        - {x: -12.714279, y: -23.333313}
+        - {x: 10.285721, y: -23.333313}
+        - {x: 10.285721, y: 11.666687}
+        - {x: 5.285721, y: 15.666687}
+    - name: player_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.452377, y: 15.666687}
+        - {x: -10.452377, y: 12.666687}
+        - {x: -10.452377, y: -21.333313}
+        - {x: -4.4523773, y: -23.333313}
+        - {x: 9.547623, y: -23.333313}
+        - {x: 10.547623, y: -18.333313}
+        - {x: 10.547623, y: 13.666687}
+        - {x: 5.5476227, y: 15.666687}
+    - name: player_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.1904755, y: 15.666687}
+        - {x: -10.190475, y: 11.666687}
+        - {x: -10.190475, y: -23.333313}
+        - {x: 11.809525, y: -23.333313}
+        - {x: 11.809525, y: 11.666687}
+        - {x: 9.809525, y: 15.666687}
+    - name: player_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4285583, y: 15.666687}
+        - {x: -10.428558, y: 10.666687}
+        - {x: -10.428558, y: -18.333313}
+        - {x: -9.428558, y: -20.333313}
+        - {x: -3.4285583, y: -23.333313}
+        - {x: 11.571442, y: -23.333313}
+        - {x: 11.571442, y: 15.666687}
+    - name: player_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.6666565, y: 15.666687}
+        - {x: -10.6666565, y: 10.666687}
+        - {x: -12.6666565, y: -0.333313}
+        - {x: -12.6666565, y: -4.333313}
+        - {x: -9.6666565, y: -20.333313}
+        - {x: -4.6666565, y: -23.333313}
+        - {x: 9.3333435, y: -23.333313}
+        - {x: 11.3333435, y: -22.333313}
+        - {x: 11.3333435, y: 13.666687}
+        - {x: 5.3333435, y: 15.666687}
+    - name: player_idle_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 16.642883}
+        - {x: -4.5, y: 16.642883}
+        - {x: -10.5, y: 14.642883}
+        - {x: -10.5, y: -16.357117}
+        - {x: -7.5, y: -24.357117}
+        - {x: 2.5, y: -24.357117}
+        - {x: 9.5, y: -21.357117}
+        - {x: 9.5, y: 10.642883}
+    - name: player_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.7619057, y: 16.904785}
+        - {x: -10.238094, y: 16.904785}
+        - {x: -10.238094, y: -24.095215}
+        - {x: 7.7619057, y: -24.095215}
+        - {x: 11.761906, y: -22.095215}
+        - {x: 12.761906, y: -19.095215}
+        - {x: 12.761906, y: 3.9047852}
+    - name: player_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4761887, y: 16.904785}
+        - {x: -9.476189, y: 13.904785}
+        - {x: -12.476189, y: 4.904785}
+        - {x: -12.476189, y: -13.095215}
+        - {x: -8.476189, y: -24.095215}
+        - {x: 7.5238113, y: -24.095215}
+        - {x: 11.523811, y: -22.095215}
+        - {x: 12.523811, y: -20.095215}
+        - {x: 12.523811, y: 13.904785}
+        - {x: 6.5238113, y: 16.904785}
+    - name: player_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.285721, y: 16.904785}
+        - {x: -8.714279, y: 16.904785}
+        - {x: -13.714279, y: 7.904785}
+        - {x: -13.714279, y: -19.095215}
+        - {x: -11.714279, y: -24.095215}
+        - {x: 9.285721, y: -24.095215}
+        - {x: 10.285721, y: -22.095215}
+        - {x: 10.285721, y: 11.904785}
+    - name: player_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.452377, y: 16.904785}
+        - {x: -10.452377, y: -24.095215}
+        - {x: 8.547623, y: -24.095215}
+        - {x: 15.547623, y: -16.095215}
+        - {x: 15.547623, y: 7.904785}
+        - {x: 9.547623, y: 16.904785}
+    - name: player_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.809525, y: 16.904785}
+        - {x: -2.1904755, y: 16.904785}
+        - {x: -8.190475, y: 10.904785}
+        - {x: -9.190475, y: 0.90478516}
+        - {x: -9.190475, y: -21.095215}
+        - {x: -8.190475, y: -24.095215}
+        - {x: 2.8095245, y: -24.095215}
+        - {x: 10.809525, y: -21.095215}
+        - {x: 18.809525, y: -16.095215}
+        - {x: 18.809525, y: 0.90478516}
+    - name: player_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4285583, y: 16.904785}
+        - {x: -8.428558, y: 12.904785}
+        - {x: -9.428558, y: 5.904785}
+        - {x: -9.428558, y: -23.095215}
+        - {x: -6.4285583, y: -24.095215}
+        - {x: 15.571442, y: -24.095215}
+        - {x: 15.571442, y: 16.904785}
+    - name: player_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.6666565, y: 16.904785}
+        - {x: -13.6666565, y: 4.904785}
+        - {x: -13.6666565, y: -16.095215}
+        - {x: -8.6666565, y: -24.095215}
+        - {x: 1.3333435, y: -24.095215}
+        - {x: 10.3333435, y: -22.095215}
+        - {x: 10.3333435, y: 14.904785}
+        - {x: 7.3333435, y: 16.904785}
+    - name: player_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 15.642883}
+        - {x: -10.5, y: 15.642883}
+        - {x: -13.5, y: 13.642883}
+        - {x: -13.5, y: -24.357117}
+        - {x: 11.5, y: -24.357117}
+        - {x: 13.5, y: -20.357117}
+        - {x: 13.5, y: 9.642883}
+        - {x: 12.5, y: 14.642883}
+    - name: player_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2380943, y: 15.642883}
+        - {x: -10.238094, y: 13.642883}
+        - {x: -13.238094, y: -2.3571167}
+        - {x: -13.238094, y: -16.357117}
+        - {x: -8.238094, y: -24.357117}
+        - {x: 9.761906, y: -24.357117}
+        - {x: 14.761906, y: -19.357117}
+        - {x: 14.761906, y: 2.6428833}
+        - {x: 11.761906, y: 15.642883}
+    - name: player_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.476189, y: -17.357117}
+        - {x: -10.476189, y: -24.357117}
+        - {x: 14.523811, y: -24.357117}
+        - {x: 14.523811, y: 15.642883}
+        - {x: -8.476189, y: 15.642883}
+        - {x: -13.476189, y: 5.6428833}
+    - name: player_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.714279, y: 14.642883}
+        - {x: -13.714279, y: 5.6428833}
+        - {x: -13.714279, y: -23.357117}
+        - {x: -12.714279, y: -24.357117}
+        - {x: 13.285721, y: -24.357117}
+        - {x: 13.285721, y: 8.642883}
+        - {x: 10.285721, y: 14.642883}
+    - name: player_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.547623, y: 15.642883}
+        - {x: -5.4523773, y: 15.642883}
+        - {x: -10.452377, y: 13.642883}
+        - {x: -13.452377, y: -0.3571167}
+        - {x: -13.452377, y: -13.357117}
+        - {x: -12.452377, y: -22.357117}
+        - {x: -9.452377, y: -24.357117}
+        - {x: 8.547623, y: -24.357117}
+        - {x: 10.547623, y: -23.357117}
+        - {x: 13.547623, y: -17.357117}
+        - {x: 13.547623, y: 3.6428833}
+        - {x: 12.547623, y: 13.642883}
+    - name: player_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.190475, y: 15.642883}
+        - {x: -13.190475, y: 5.6428833}
+        - {x: -13.190475, y: -24.357117}
+        - {x: 12.809525, y: -24.357117}
+        - {x: 14.809525, y: -19.357117}
+        - {x: 14.809525, y: 12.642883}
+        - {x: 7.8095245, y: 15.642883}
+    - name: player_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.428558, y: 15.642883}
+        - {x: -11.428558, y: 14.642883}
+        - {x: -13.428558, y: 3.6428833}
+        - {x: -13.428558, y: -16.357117}
+        - {x: -9.428558, y: -21.357117}
+        - {x: -7.4285583, y: -24.357117}
+        - {x: 9.571442, y: -24.357117}
+        - {x: 14.571442, y: -18.357117}
+        - {x: 14.571442, y: 8.642883}
+        - {x: 13.571442, y: 15.642883}
+    - name: player_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.3333435, y: 14.642883}
+        - {x: -11.6666565, y: 14.642883}
+        - {x: -12.6666565, y: 3.6428833}
+        - {x: -12.6666565, y: -16.357117}
+        - {x: -9.6666565, y: -24.357117}
+        - {x: 10.3333435, y: -24.357117}
+        - {x: 14.3333435, y: -19.357117}
+        - {x: 14.3333435, y: 1.6428833}
+        - {x: 12.3333435, y: 12.642883}
+    - name: player_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.404755, y: 15.642883}
+        - {x: -13.404755, y: 9.642883}
+        - {x: -13.404755, y: -24.357117}
+        - {x: 8.595245, y: -24.357117}
+        - {x: 13.595245, y: -20.357117}
+        - {x: 13.595245, y: 12.642883}
+        - {x: 5.5952454, y: 15.642883}
+    - name: player_walking_left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 15.380981}
+        - {x: -9.5, y: 11.380981}
+        - {x: -9.5, y: -23.619019}
+        - {x: -7.5, y: -24.619019}
+        - {x: 10.5, y: -24.619019}
+        - {x: 10.5, y: 14.380981}
+        - {x: 7.5, y: 15.380981}
+    - name: player_walking_left_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5238113, y: 14.380981}
+        - {x: -12.476189, y: 14.380981}
+        - {x: -12.476189, y: -24.619019}
+        - {x: 9.523811, y: -24.619019}
+        - {x: 11.523811, y: -23.619019}
+        - {x: 11.523811, y: 4.3809814}
+        - {x: 10.523811, y: 10.380981}
+    - name: player_walking_left_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4761887, y: 15.380981}
+        - {x: -10.476189, y: 13.380981}
+        - {x: -10.476189, y: -24.619019}
+        - {x: 7.5238113, y: -24.619019}
+        - {x: 11.523811, y: -23.619019}
+        - {x: 11.523811, y: 15.380981}
+    - name: player_walking_left_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.714279, y: 15.380981}
+        - {x: -9.714279, y: -18.619019}
+        - {x: -7.714279, y: -24.619019}
+        - {x: 6.285721, y: -24.619019}
+        - {x: 12.285721, y: -16.619019}
+        - {x: 12.285721, y: 13.380981}
+        - {x: 8.285721, y: 15.380981}
+    - name: player_walking_left_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.452377, y: 15.380981}
+        - {x: -10.452377, y: 14.380981}
+        - {x: -10.452377, y: -24.619019}
+        - {x: 9.547623, y: -24.619019}
+        - {x: 11.547623, y: -23.619019}
+        - {x: 13.547623, y: -18.619019}
+        - {x: 13.547623, y: 14.380981}
+        - {x: 11.547623, y: 15.380981}
+    - name: player_walking_left_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.809525, y: 14.380981}
+        - {x: -8.190475, y: 14.380981}
+        - {x: -10.190475, y: 1.3809814}
+        - {x: -10.190475, y: -24.619019}
+        - {x: 8.809525, y: -24.619019}
+        - {x: 15.809525, y: -17.619019}
+        - {x: 15.809525, y: 6.3809814}
+        - {x: 14.809525, y: 12.380981}
+    - name: player_walking_left_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.571442, y: 6.3809814}
+        - {x: 9.571442, y: 15.380981}
+        - {x: -8.428558, y: 15.380981}
+        - {x: -8.428558, y: -23.619019}
+        - {x: -7.4285583, y: -24.619019}
+        - {x: 4.5714417, y: -24.619019}
+        - {x: 8.571442, y: -21.619019}
+        - {x: 13.571442, y: -16.619019}
+    - name: player_walking_left_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.6666565, y: 15.380981}
+        - {x: -8.6666565, y: 14.380981}
+        - {x: -8.6666565, y: -17.619019}
+        - {x: -5.6666565, y: -24.619019}
+        - {x: 12.3333435, y: -24.619019}
+        - {x: 12.3333435, y: 15.380981}
+    - name: player_walking_left_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 705
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4047546, y: 14.642883}
+        - {x: -9.404755, y: 12.642883}
+        - {x: -9.404755, y: -12.357117}
+        - {x: -7.4047546, y: -24.357117}
+        - {x: 11.595245, y: -24.357117}
+        - {x: 11.595245, y: 9.642883}
+        - {x: 7.5952454, y: 14.642883}
+    - name: player_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 15.619049}
+        - {x: -8.5, y: 15.619049}
+        - {x: -10.5, y: 10.619049}
+        - {x: -13.5, y: -2.380951}
+        - {x: -13.5, y: -23.38095}
+        - {x: -10.5, y: -24.38095}
+        - {x: 13.5, y: -24.38095}
+        - {x: 13.5, y: 9.619049}
+        - {x: 12.5, y: 14.619049}
+    - name: player_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.238094, y: 15.619049}
+        - {x: -13.238094, y: 1.6190491}
+        - {x: -13.238094, y: -20.38095}
+        - {x: -9.238094, y: -24.38095}
+        - {x: 12.761906, y: -24.38095}
+        - {x: 14.761906, y: -21.38095}
+        - {x: 14.761906, y: 0.6190491}
+        - {x: 8.761906, y: 15.619049}
+    - name: player_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.476189, y: 15.619049}
+        - {x: -13.476189, y: -5.380951}
+        - {x: -13.476189, y: -16.38095}
+        - {x: -9.476189, y: -24.38095}
+        - {x: 10.523811, y: -24.38095}
+        - {x: 14.523811, y: -17.38095}
+        - {x: 14.523811, y: -1.3809509}
+        - {x: 10.523811, y: 15.619049}
+    - name: player_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.714279, y: 15.619049}
+        - {x: -12.714279, y: 12.619049}
+        - {x: -12.714279, y: -19.38095}
+        - {x: -8.714279, y: -24.38095}
+        - {x: 10.285721, y: -24.38095}
+        - {x: 14.285721, y: -15.380951}
+        - {x: 14.285721, y: 13.619049}
+        - {x: 9.285721, y: 15.619049}
+    - name: player_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.547623, y: 15.619049}
+        - {x: -11.452377, y: 15.619049}
+        - {x: -13.452377, y: 6.619049}
+        - {x: -13.452377, y: -24.38095}
+        - {x: 11.547623, y: -24.38095}
+        - {x: 13.547623, y: -18.38095}
+        - {x: 13.547623, y: 5.619049}
+        - {x: 12.547623, y: 13.619049}
+    - name: player_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1904755, y: 15.619049}
+        - {x: -13.190475, y: 4.619049}
+        - {x: -13.190475, y: -16.38095}
+        - {x: -10.190475, y: -24.38095}
+        - {x: 12.809525, y: -24.38095}
+        - {x: 14.809525, y: -23.38095}
+        - {x: 14.809525, y: 8.619049}
+        - {x: 11.809525, y: 15.619049}
+    - name: player_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5714417, y: 15.619049}
+        - {x: -12.428558, y: 15.619049}
+        - {x: -13.428558, y: 11.619049}
+        - {x: -13.428558, y: -20.38095}
+        - {x: -10.428558, y: -24.38095}
+        - {x: 12.571442, y: -24.38095}
+        - {x: 14.571442, y: -17.38095}
+        - {x: 14.571442, y: 6.619049}
+        - {x: 12.571442, y: 12.619049}
+    - name: player_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.6666565, y: 15.619049}
+        - {x: -10.6666565, y: 14.619049}
+        - {x: -13.6666565, y: -4.380951}
+        - {x: -13.6666565, y: -20.38095}
+        - {x: -12.6666565, y: -24.38095}
+        - {x: 13.3333435, y: -24.38095}
+        - {x: 13.3333435, y: 15.619049}
+    - name: player_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.404755, y: 15.619049}
+        - {x: -13.404755, y: 4.619049}
+        - {x: -13.404755, y: -11.380951}
+        - {x: -10.404755, y: -24.38095}
+        - {x: 13.595245, y: -24.38095}
+        - {x: 13.595245, y: 5.619049}
+        - {x: 7.5952454, y: 15.619049}
+    - name: player_walking_right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 16.857147}
+        - {x: -5.5, y: 16.857147}
+        - {x: -10.5, y: 14.857147}
+        - {x: -10.5, y: -22.142853}
+        - {x: -5.5, y: -24.142853}
+        - {x: 6.5, y: -24.142853}
+        - {x: 9.5, y: -22.142853}
+        - {x: 9.5, y: 10.857147}
+    - name: player_walking_right_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.7619057, y: -24.142853}
+        - {x: 4.7619057, y: -24.142853}
+        - {x: 12.761906, y: -22.142853}
+        - {x: 12.761906, y: 1.8571472}
+        - {x: 11.761906, y: 13.857147}
+        - {x: 5.7619057, y: 15.857147}
+        - {x: -6.2380943, y: 15.857147}
+        - {x: -10.238094, y: 10.857147}
+        - {x: -10.238094, y: -23.142853}
+        - {x: -6.2380943, y: -24.142853}
+        - {x: 0.76190567, y: -24.142853}
+        - {x: 1.7619057, y: -21.142853}
+        - {x: 1.7619057, y: -19.142853}
+        - {x: 1.7619057, y: -20.142853}
+    - name: player_walking_right_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4761887, y: 16.857147}
+        - {x: -10.476189, y: 15.857147}
+        - {x: -10.476189, y: -23.142853}
+        - {x: 11.523811, y: -23.142853}
+        - {x: 11.523811, y: 14.857147}
+        - {x: 5.5238113, y: 16.857147}
+    - name: player_walking_right_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.714279, y: 16.857147}
+        - {x: -12.714279, y: -23.142853}
+        - {x: 7.285721, y: -23.142853}
+        - {x: 9.285721, y: -14.142853}
+        - {x: 9.285721, y: 16.857147}
+    - name: player_walking_right_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.452377, y: 16.857147}
+        - {x: -13.452377, y: 2.8571472}
+        - {x: -13.452377, y: -19.142853}
+        - {x: -6.4523773, y: -24.142853}
+        - {x: 6.5476227, y: -24.142853}
+        - {x: 9.547623, y: -23.142853}
+        - {x: 9.547623, y: 15.857147}
+        - {x: 7.5476227, y: 16.857147}
+    - name: player_walking_right_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.8095245, y: 15.857147}
+        - {x: -4.1904755, y: 15.857147}
+        - {x: -10.190475, y: 14.857147}
+        - {x: -13.190475, y: -6.142853}
+        - {x: -13.190475, y: -16.142853}
+        - {x: -7.1904755, y: -23.142853}
+        - {x: -3.1904755, y: -24.142853}
+        - {x: 10.809525, y: -24.142853}
+        - {x: 12.809525, y: -17.142853}
+        - {x: 12.809525, y: 2.8571472}
+        - {x: 9.809525, y: 11.857147}
+    - name: player_walking_right_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4285583, y: 16.857147}
+        - {x: -12.428558, y: 13.857147}
+        - {x: -12.428558, y: -15.142853}
+        - {x: -7.4285583, y: -24.142853}
+        - {x: 9.571442, y: -24.142853}
+        - {x: 9.571442, y: 14.857147}
+        - {x: 7.5714417, y: 16.857147}
+    - name: player_walking_right_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.3333435, y: 16.857147}
+        - {x: -3.6666565, y: 16.857147}
+        - {x: -8.6666565, y: 13.857147}
+        - {x: -10.6666565, y: 10.857147}
+        - {x: -12.6666565, y: 3.8571472}
+        - {x: -12.6666565, y: -10.142853}
+        - {x: -10.6666565, y: -23.142853}
+        - {x: -5.6666565, y: -24.142853}
+        - {x: 5.3333435, y: -24.142853}
+        - {x: 8.3333435, y: -18.142853}
+        - {x: 9.3333435, y: -2.1428528}
+        - {x: 9.3333435, y: 11.857147}
+    - name: player_walking_right_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.142853, y: 16.857147}
+        - {x: -11.142853, y: -24.142853}
+        - {x: 7.857147, y: -24.142853}
+        - {x: 9.857147, y: -14.142853}
+        - {x: 9.857147, y: 15.857147}
+        - {x: 7.857147, y: 16.857147}
+    - name: player_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.595245}
+        - {x: -11.5, y: 12.595245}
+        - {x: -13.5, y: 11.595245}
+        - {x: -13.5, y: -24.404755}
+        - {x: 12.5, y: -24.404755}
+        - {x: 13.5, y: -23.404755}
+        - {x: 13.5, y: 6.5952454}
+        - {x: 9.5, y: 14.595245}
+    - name: player_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.7619057, y: 13.595245}
+        - {x: -7.2380943, y: 13.595245}
+        - {x: -11.238094, y: 8.595245}
+        - {x: -11.238094, y: -23.404755}
+        - {x: -10.238094, y: -24.404755}
+        - {x: 12.761906, y: -24.404755}
+        - {x: 12.761906, y: 9.595245}
+        - {x: 11.761906, y: 12.595245}
+    - name: player_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4761887, y: 13.595245}
+        - {x: -11.476189, y: 12.595245}
+        - {x: -11.476189, y: -23.404755}
+        - {x: -9.476189, y: -24.404755}
+        - {x: 12.523811, y: -24.404755}
+        - {x: 12.523811, y: 11.595245}
+        - {x: 10.523811, y: 13.595245}
+    - name: player_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.714279, y: 14.595245}
+        - {x: -12.714279, y: -24.404755}
+        - {x: 13.285721, y: -24.404755}
+        - {x: 13.285721, y: 6.5952454}
+        - {x: 9.285721, y: 14.595245}
+    - name: player_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.452377, y: 14.595245}
+        - {x: -11.452377, y: 13.595245}
+        - {x: -13.452377, y: 7.5952454}
+        - {x: -13.452377, y: -19.404755}
+        - {x: -11.452377, y: -24.404755}
+        - {x: 12.547623, y: -24.404755}
+        - {x: 19.547623, y: -6.4047546}
+        - {x: 19.547623, y: 1.5952454}
+        - {x: 14.547623, y: 14.595245}
+    - name: player_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.809525, y: 14.595245}
+        - {x: -9.190475, y: 14.595245}
+        - {x: -12.190475, y: -6.4047546}
+        - {x: -12.190475, y: -24.404755}
+        - {x: 13.809525, y: -24.404755}
+        - {x: 15.809525, y: -23.404755}
+        - {x: 22.809525, y: -5.4047546}
+        - {x: 22.809525, y: 1.5952454}
+    - name: player_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 15.3333435}
+        - {x: -9.5, y: 11.3333435}
+        - {x: -9.5, y: -23.666656}
+        - {x: -6.5, y: -24.666656}
+        - {x: 8.5, y: -24.666656}
+        - {x: 10.5, y: -19.666656}
+        - {x: 10.5, y: 14.3333435}
+        - {x: 6.5, y: 15.3333435}
+    - name: player_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2380943, y: 14.3333435}
+        - {x: -13.238094, y: 11.3333435}
+        - {x: -13.238094, y: -23.666656}
+        - {x: -9.238094, y: -24.666656}
+        - {x: 10.761906, y: -24.666656}
+        - {x: 10.761906, y: 11.3333435}
+        - {x: 7.7619057, y: 14.3333435}
+      - - {x: 2.7619057, y: 25.333344}
+        - {x: 3.7619057, y: 22.333344}
+        - {x: 9.761906, y: 22.333344}
+        - {x: 11.761906, y: 24.333344}
+        - {x: 11.761906, y: 25.333344}
+    - name: player_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5238113, y: 15.3333435}
+        - {x: -6.4761887, y: 15.3333435}
+        - {x: -11.476189, y: 14.3333435}
+        - {x: -11.476189, y: -22.666656}
+        - {x: -9.476189, y: -24.666656}
+        - {x: 9.523811, y: -24.666656}
+        - {x: 11.523811, y: -19.666656}
+        - {x: 11.523811, y: -2.6666565}
+        - {x: 8.523811, y: 12.3333435}
+      - - {x: 2.5238113, y: 25.333344}
+        - {x: 3.5238113, y: 22.333344}
+        - {x: 9.523811, y: 22.333344}
+        - {x: 11.523811, y: 24.333344}
+        - {x: 11.523811, y: 25.333344}
+    - name: player_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.285721, y: 15.3333435}
+        - {x: -9.714279, y: 15.3333435}
+        - {x: -18.71428, y: 1.3333435}
+        - {x: -18.71428, y: -14.6666565}
+        - {x: -12.714279, y: -24.666656}
+        - {x: 9.285721, y: -24.666656}
+        - {x: 12.285721, y: -20.666656}
+        - {x: 12.285721, y: 4.3333435}
+        - {x: 10.285721, y: 14.3333435}
+      - - {x: 2.2857208, y: 25.333344}
+        - {x: 3.2857208, y: 22.333344}
+        - {x: 8.285721, y: 22.333344}
+        - {x: 10.285721, y: 24.333344}
+        - {x: 10.285721, y: 25.333344}
+    - name: player_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5476227, y: 15.3333435}
+        - {x: -15.452377, y: 15.3333435}
+        - {x: -20.452377, y: 11.3333435}
+        - {x: -20.452377, y: -11.6666565}
+        - {x: -14.452377, y: -24.666656}
+        - {x: 10.547623, y: -24.666656}
+        - {x: 11.547623, y: -23.666656}
+        - {x: 11.547623, y: 3.3333435}
+        - {x: 8.547623, y: 13.3333435}
+      - - {x: 2.5476227, y: 25.333344}
+        - {x: 3.5476227, y: 22.333344}
+        - {x: 8.547623, y: 22.333344}
+        - {x: 10.547623, y: 24.333344}
+        - {x: 10.547623, y: 25.333344}
+    - name: player_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.190475, y: 15.3333435}
+        - {x: -17.190475, y: 5.3333435}
+        - {x: -17.190475, y: -6.6666565}
+        - {x: -12.190475, y: -22.666656}
+        - {x: -9.190475, y: -24.666656}
+        - {x: 12.809525, y: -24.666656}
+        - {x: 12.809525, y: -1.6666565}
+        - {x: 5.8095245, y: 15.3333435}
+      - - {x: 3.8095245, y: 25.333344}
+        - {x: 4.8095245, y: 22.333344}
+        - {x: 9.809525, y: 22.333344}
+        - {x: 11.809525, y: 24.333344}
+        - {x: 11.809525, y: 25.333344}
+    - name: player_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 15.571442}
+        - {x: -13.5, y: -24.428558}
+        - {x: 11.5, y: -24.428558}
+        - {x: 13.5, y: -22.428558}
+        - {x: 13.5, y: 4.5714417}
+        - {x: 8.5, y: 15.571442}
+    - name: player_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2380943, y: 15.571442}
+        - {x: -11.238094, y: 14.571442}
+        - {x: -11.238094, y: -24.428558}
+        - {x: 12.761906, y: -24.428558}
+        - {x: 12.761906, y: 9.571442}
+        - {x: 9.761906, y: 15.571442}
+    - name: player_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4761887, y: 14.571442}
+        - {x: -9.476189, y: 13.571442}
+        - {x: -11.476189, y: 9.571442}
+        - {x: -11.476189, y: -24.428558}
+        - {x: 12.523811, y: -24.428558}
+        - {x: 12.523811, y: 13.571442}
+        - {x: 9.523811, y: 14.571442}
+    - name: player_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.714279, y: 15.571442}
+        - {x: -11.714279, y: 14.571442}
+        - {x: -11.714279, y: -24.428558}
+        - {x: 13.285721, y: -24.428558}
+        - {x: 13.285721, y: 15.571442}
+    - name: player_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4523773, y: 15.571442}
+        - {x: -8.452377, y: 14.571442}
+        - {x: -11.452377, y: 7.5714417}
+        - {x: -11.452377, y: -24.428558}
+        - {x: 16.547623, y: -24.428558}
+        - {x: 19.547623, y: -13.428558}
+        - {x: 19.547623, y: -1.4285583}
+        - {x: 10.547623, y: 15.571442}
+    - name: player_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.1904755, y: 15.571442}
+        - {x: -11.190475, y: 2.5714417}
+        - {x: -11.190475, y: -24.428558}
+        - {x: 15.809525, y: -24.428558}
+        - {x: 22.809525, y: -17.428558}
+        - {x: 22.809525, y: 0.57144165}
+        - {x: 9.809525, y: 15.571442}
+    - name: player_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.809525}
+        - {x: -10.5, y: 14.809525}
+        - {x: -10.5, y: -16.190475}
+        - {x: -8.5, y: -24.190475}
+        - {x: 8.5, y: -24.190475}
+        - {x: 9.5, y: -23.190475}
+        - {x: 9.5, y: 14.809525}
+        - {x: 7.5, y: 16.809525}
+    - name: player_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2380943, y: 14.809525}
+        - {x: -9.238094, y: 7.8095245}
+        - {x: -9.238094, y: -24.190475}
+        - {x: 14.761906, y: -24.190475}
+        - {x: 14.761906, y: 12.809525}
+        - {x: 8.761906, y: 14.809525}
+    - name: player_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4761887, y: 16.809525}
+        - {x: -11.476189, y: 15.809525}
+        - {x: -11.476189, y: -23.190475}
+        - {x: -10.476189, y: -24.190475}
+        - {x: 11.523811, y: -24.190475}
+        - {x: 11.523811, y: 13.809525}
+        - {x: 9.523811, y: 16.809525}
+    - name: player_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.714279, y: 16.809525}
+        - {x: -8.714279, y: 11.809525}
+        - {x: -12.714279, y: -3.1904755}
+        - {x: -12.714279, y: -17.190475}
+        - {x: -8.714279, y: -24.190475}
+        - {x: 10.285721, y: -24.190475}
+        - {x: 18.28572, y: -18.190475}
+        - {x: 18.28572, y: 16.809525}
+    - name: player_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.547623, y: 5.8095245}
+        - {x: 15.547623, y: 13.809525}
+        - {x: 7.5476227, y: 16.809525}
+        - {x: -4.4523773, y: 16.809525}
+        - {x: -11.452377, y: 3.8095245}
+        - {x: -11.452377, y: -19.190475}
+        - {x: -10.452377, y: -24.190475}
+        - {x: 9.547623, y: -24.190475}
+        - {x: 11.547623, y: -22.190475}
+        - {x: 19.547623, y: -7.1904755}
+        - {x: 20.547623, y: -3.1904755}
+    - name: player_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.19047546, y: 16.809525}
+        - {x: -9.190475, y: 12.809525}
+        - {x: -10.190475, y: 4.8095245}
+        - {x: -10.190475, y: -17.190475}
+        - {x: -9.190475, y: -23.190475}
+        - {x: -4.1904755, y: -24.190475}
+        - {x: 13.809525, y: -24.190475}
+        - {x: 19.809525, y: -13.190475}
+        - {x: 19.809525, y: 5.8095245}
+        - {x: 12.809525, y: 16.809525}
+    - name: player_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 14.547623}
+        - {x: -13.5, y: 12.547623}
+        - {x: -14.5, y: -4.4523773}
+        - {x: -14.5, y: -16.452377}
+        - {x: -12.5, y: -24.452377}
+        - {x: 12.5, y: -24.452377}
+        - {x: 12.5, y: 2.5476227}
+        - {x: 6.5, y: 14.547623}
+    - name: player_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.238094, y: 13.547623}
+        - {x: -11.238094, y: -24.452377}
+        - {x: 9.761906, y: -24.452377}
+        - {x: 12.761906, y: -20.452377}
+        - {x: 12.761906, y: 12.547623}
+        - {x: 7.7619057, y: 13.547623}
+    - name: player_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.476189, y: 14.547623}
+        - {x: -10.476189, y: -23.452377}
+        - {x: -9.476189, y: -24.452377}
+        - {x: 11.523811, y: -24.452377}
+        - {x: 11.523811, y: 8.547623}
+        - {x: 8.523811, y: 14.547623}
+    - name: player_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.714279, y: 14.547623}
+        - {x: -11.714279, y: -13.452377}
+        - {x: -10.714279, y: -20.452377}
+        - {x: -5.714279, y: -24.452377}
+        - {x: 7.285721, y: -24.452377}
+        - {x: 10.285721, y: -22.452377}
+        - {x: 10.285721, y: 14.547623}
+    - name: player_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5476227, y: 14.547623}
+        - {x: -5.4523773, y: 14.547623}
+        - {x: -11.452377, y: 13.547623}
+        - {x: -11.452377, y: 1.5476227}
+        - {x: -8.452377, y: -19.452377}
+        - {x: -5.4523773, y: -24.452377}
+        - {x: 11.547623, y: -24.452377}
+        - {x: 13.547623, y: -15.452377}
+        - {x: 13.547623, y: 0.5476227}
+        - {x: 10.547623, y: 9.547623}
+    - name: player_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1904755, y: 14.547623}
+        - {x: -10.190475, y: 13.547623}
+        - {x: -10.190475, y: -8.452377}
+        - {x: -5.1904755, y: -24.452377}
+        - {x: 13.809525, y: -24.452377}
+        - {x: 13.809525, y: 9.547623}
+        - {x: 9.809525, y: 14.547623}
+    - name: player_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4285583, y: 14.547623}
+        - {x: -11.428558, y: 8.547623}
+        - {x: -11.428558, y: -5.4523773}
+        - {x: -5.4285583, y: -24.452377}
+        - {x: 8.571442, y: -24.452377}
+        - {x: 13.571442, y: -9.452377}
+        - {x: 13.571442, y: 5.5476227}
+        - {x: 5.5714417, y: 14.547623}
+    - name: player_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.3333435, y: 14.547623}
+        - {x: -6.6666565, y: 14.547623}
+        - {x: -11.6666565, y: 8.547623}
+        - {x: -11.6666565, y: -4.4523773}
+        - {x: -9.6666565, y: -13.452377}
+        - {x: -5.6666565, y: -24.452377}
+        - {x: 10.3333435, y: -24.452377}
+        - {x: 14.3333435, y: -18.452377}
+        - {x: 14.3333435, y: 3.5476227}
+        - {x: 11.3333435, y: 9.547623}
+    - name: player_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5952454, y: 14.547623}
+        - {x: -6.4047546, y: 14.547623}
+        - {x: -10.404755, y: 11.547623}
+        - {x: -11.404755, y: 8.547623}
+        - {x: -11.404755, y: -10.452377}
+        - {x: -6.4047546, y: -24.452377}
+        - {x: 12.595245, y: -24.452377}
+        - {x: 14.595245, y: -15.452377}
+        - {x: 14.595245, y: 3.5476227}
+        - {x: 8.595245, y: 13.547623}
+    - name: player_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.142853, y: 14.547623}
+        - {x: -10.142853, y: 11.547623}
+        - {x: -10.142853, y: -10.452377}
+        - {x: -7.142853, y: -20.452377}
+        - {x: -4.142853, y: -24.452377}
+        - {x: 12.857147, y: -24.452377}
+        - {x: 14.857147, y: -20.452377}
+        - {x: 14.857147, y: 11.547623}
+        - {x: 7.857147, y: 14.547623}
+    - name: player_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.380951, y: 14.547623}
+        - {x: -10.380951, y: -20.452377}
+        - {x: -6.380951, y: -24.452377}
+        - {x: 10.619049, y: -24.452377}
+        - {x: 10.619049, y: 11.547623}
+        - {x: 7.619049, y: 14.547623}
+    - name: player_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.3809814, y: 14.547623}
+        - {x: -4.6190186, y: 14.547623}
+        - {x: -11.619019, y: 12.547623}
+        - {x: -11.619019, y: -6.4523773}
+        - {x: -9.619019, y: -19.452377}
+        - {x: -4.6190186, y: -24.452377}
+        - {x: 10.380981, y: -24.452377}
+        - {x: 10.380981, y: 6.5476227}
+        - {x: 9.380981, y: 11.547623}
+    - name: player_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.357117, y: 14.547623}
+        - {x: -11.357117, y: -14.452377}
+        - {x: -10.357117, y: -20.452377}
+        - {x: -5.3571167, y: -24.452377}
+        - {x: 7.6428833, y: -24.452377}
+        - {x: 10.642883, y: -22.452377}
+        - {x: 10.642883, y: 14.547623}
+    - name: player_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 15.285721}
+        - {x: -8.5, y: -24.71428}
+        - {x: 9.5, y: -24.71428}
+        - {x: 11.5, y: -19.71428}
+        - {x: 11.5, y: 12.285721}
+        - {x: 7.5, y: 15.285721}
+    - name: player_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.761906, y: 15.285721}
+        - {x: -2.2380943, y: 15.285721}
+        - {x: -9.238094, y: 13.285721}
+        - {x: -10.238094, y: 10.285721}
+        - {x: -10.238094, y: -20.71428}
+        - {x: -6.2380943, y: -24.71428}
+        - {x: 10.761906, y: -24.71428}
+        - {x: 11.761906, y: -23.71428}
+        - {x: 12.761906, y: -10.714279}
+        - {x: 12.761906, y: 10.285721}
+      - - {x: -1.2380943, y: 25.28572}
+        - {x: -0.23809433, y: 22.28572}
+        - {x: 7.7619057, y: 22.28572}
+        - {x: 9.761906, y: 24.28572}
+        - {x: 9.761906, y: 25.28572}
+    - name: player_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4761887, y: 15.285721}
+        - {x: -9.476189, y: 10.285721}
+        - {x: -14.476189, y: -3.7142792}
+        - {x: -14.476189, y: -18.71428}
+        - {x: -10.476189, y: -24.71428}
+        - {x: 13.523811, y: -24.71428}
+        - {x: 14.523811, y: -22.71428}
+        - {x: 14.523811, y: 4.285721}
+        - {x: 10.523811, y: 15.285721}
+      - - {x: -2.4761887, y: 25.28572}
+        - {x: -1.4761887, y: 22.28572}
+        - {x: 6.5238113, y: 22.28572}
+        - {x: 8.523811, y: 24.28572}
+        - {x: 8.523811, y: 25.28572}
+    - name: player_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.714279, y: 15.285721}
+        - {x: -9.714279, y: 14.285721}
+        - {x: -16.71428, y: 0.28572083}
+        - {x: -16.71428, y: -19.71428}
+        - {x: -7.714279, y: -24.71428}
+        - {x: 14.285721, y: -24.71428}
+        - {x: 14.285721, y: 6.285721}
+        - {x: 8.285721, y: 15.285721}
+      - - {x: -4.714279, y: 25.28572}
+        - {x: -3.7142792, y: 22.28572}
+        - {x: 5.285721, y: 22.28572}
+        - {x: 7.285721, y: 24.28572}
+        - {x: 7.285721, y: 25.28572}
+    - name: player_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4523773, y: 15.285721}
+        - {x: -9.452377, y: 14.285721}
+        - {x: -16.452377, y: 8.285721}
+        - {x: -16.452377, y: -21.71428}
+        - {x: -15.452377, y: -24.71428}
+        - {x: 9.547623, y: -24.71428}
+        - {x: 14.547623, y: -13.714279}
+        - {x: 14.547623, y: 6.285721}
+        - {x: 9.547623, y: 15.285721}
+      - - {x: -4.4523773, y: 25.28572}
+        - {x: -3.4523773, y: 22.28572}
+        - {x: 5.5476227, y: 22.28572}
+        - {x: 7.5476227, y: 24.28572}
+        - {x: 7.5476227, y: 25.28572}
+    - name: player_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.190475, y: 15.285721}
+        - {x: -16.190475, y: 11.285721}
+        - {x: -16.190475, y: -20.71428}
+        - {x: -15.190475, y: -24.71428}
+        - {x: 12.809525, y: -24.71428}
+        - {x: 12.809525, y: 13.285721}
+        - {x: 7.8095245, y: 15.285721}
+      - - {x: -3.1904755, y: 25.28572}
+        - {x: -2.1904755, y: 22.28572}
+        - {x: 6.8095245, y: 22.28572}
+        - {x: 8.809525, y: 24.28572}
+        - {x: 8.809525, y: 25.28572}
+    - name: player_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.571442, y: 15.285721}
+        - {x: -4.4285583, y: 15.285721}
+        - {x: -9.428558, y: 13.285721}
+        - {x: -17.428558, y: 9.285721}
+        - {x: -17.428558, y: -15.714279}
+        - {x: -14.428558, y: -24.71428}
+        - {x: 12.571442, y: -24.71428}
+        - {x: 13.571442, y: -17.71428}
+        - {x: 13.571442, y: 7.285721}
+        - {x: 9.571442, y: 14.285721}
+      - - {x: -4.4285583, y: 25.28572}
+        - {x: -3.4285583, y: 22.28572}
+        - {x: 6.5714417, y: 22.28572}
+        - {x: 8.571442, y: 24.28572}
+        - {x: 8.571442, y: 25.28572}
+    - name: player_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.6666565, y: 15.285721}
+        - {x: -16.666656, y: 5.285721}
+        - {x: -16.666656, y: -11.714279}
+        - {x: -8.6666565, y: -24.71428}
+        - {x: 13.3333435, y: -24.71428}
+        - {x: 15.3333435, y: -17.71428}
+        - {x: 15.3333435, y: 10.285721}
+        - {x: 9.3333435, y: 15.285721}
+      - - {x: -4.6666565, y: 25.28572}
+        - {x: -3.6666565, y: 22.28572}
+        - {x: 5.3333435, y: 22.28572}
+        - {x: 7.3333435, y: 24.28572}
+        - {x: 7.3333435, y: 25.28572}
+    - name: player_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5952454, y: 15.285721}
+        - {x: -10.404755, y: 15.285721}
+        - {x: -16.404755, y: 6.285721}
+        - {x: -16.404755, y: -16.71428}
+        - {x: -7.4047546, y: -24.71428}
+        - {x: 10.595245, y: -24.71428}
+        - {x: 16.595245, y: -4.714279}
+        - {x: 16.595245, y: 4.285721}
+        - {x: 9.595245, y: 14.285721}
+      - - {x: -4.4047546, y: 25.28572}
+        - {x: -3.4047546, y: 22.28572}
+        - {x: 5.5952454, y: 22.28572}
+        - {x: 7.5952454, y: 24.28572}
+        - {x: 7.5952454, y: 25.28572}
+    - name: player_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.142853, y: 15.285721}
+        - {x: -7.142853, y: 13.285721}
+        - {x: -8.142853, y: 9.285721}
+        - {x: -16.142853, y: 2.2857208}
+        - {x: -16.142853, y: -6.714279}
+        - {x: -9.142853, y: -22.71428}
+        - {x: -5.142853, y: -24.71428}
+        - {x: 15.857147, y: -24.71428}
+        - {x: 15.857147, y: 9.285721}
+        - {x: 11.857147, y: 15.285721}
+      - - {x: -3.1428528, y: 25.28572}
+        - {x: -2.1428528, y: 22.28572}
+        - {x: 6.857147, y: 22.28572}
+        - {x: 8.857147, y: 24.28572}
+        - {x: 8.857147, y: 25.28572}
+    - name: player_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.380951, y: 15.285721}
+        - {x: -16.38095, y: 9.285721}
+        - {x: -16.38095, y: -16.71428}
+        - {x: -13.380951, y: -24.71428}
+        - {x: 14.619049, y: -24.71428}
+        - {x: 14.619049, y: 10.285721}
+        - {x: 7.619049, y: 15.285721}
+      - - {x: -4.380951, y: 25.28572}
+        - {x: -3.380951, y: 22.28572}
+        - {x: 6.619049, y: 22.28572}
+        - {x: 8.619049, y: 24.28572}
+        - {x: 8.619049, y: 25.28572}
+    - name: player_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.619019, y: 15.285721}
+        - {x: -16.619019, y: 6.285721}
+        - {x: -16.619019, y: -9.714279}
+        - {x: -9.619019, y: -24.71428}
+        - {x: 10.380981, y: -24.71428}
+        - {x: 11.380981, y: -23.71428}
+        - {x: 11.380981, y: 15.285721}
+      - - {x: -4.6190186, y: 25.28572}
+        - {x: -3.6190186, y: 22.28572}
+        - {x: 6.3809814, y: 22.28572}
+        - {x: 8.380981, y: 24.28572}
+        - {x: 8.380981, y: 25.28572}
+    - name: player_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.357117, y: 15.285721}
+        - {x: -16.357117, y: 4.285721}
+        - {x: -16.357117, y: -13.714279}
+        - {x: -7.3571167, y: -24.71428}
+        - {x: 13.642883, y: -24.71428}
+        - {x: 13.642883, y: 12.285721}
+        - {x: 12.642883, y: 15.285721}
+      - - {x: -4.3571167, y: 25.28572}
+        - {x: -3.3571167, y: 22.28572}
+        - {x: 5.6428833, y: 22.28572}
+        - {x: 7.6428833, y: 24.28572}
+        - {x: 7.6428833, y: 25.28572}
+    - name: player_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 15.523811}
+        - {x: -13.5, y: 14.523811}
+        - {x: -14.5, y: 3.5238113}
+        - {x: -14.5, y: -24.476189}
+        - {x: 12.5, y: -24.476189}
+        - {x: 12.5, y: 13.523811}
+        - {x: 8.5, y: 15.523811}
+    - name: player_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.238094, y: 15.523811}
+        - {x: -12.238094, y: 11.523811}
+        - {x: -12.238094, y: -21.476189}
+        - {x: -11.238094, y: -24.476189}
+        - {x: 10.761906, y: -24.476189}
+        - {x: 11.761906, y: -22.476189}
+        - {x: 11.761906, y: 13.523811}
+        - {x: 10.761906, y: 15.523811}
+    - name: player_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4761887, y: 15.523811}
+        - {x: -12.476189, y: 8.523811}
+        - {x: -12.476189, y: -18.476189}
+        - {x: -8.476189, y: -24.476189}
+        - {x: 10.523811, y: -24.476189}
+        - {x: 10.523811, y: 11.523811}
+        - {x: 7.5238113, y: 15.523811}
+    - name: player_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.714279, y: 15.523811}
+        - {x: -12.714279, y: 9.523811}
+        - {x: -12.714279, y: -17.476189}
+        - {x: -7.714279, y: -24.476189}
+        - {x: 8.285721, y: -24.476189}
+        - {x: 9.285721, y: -23.476189}
+        - {x: 10.285721, y: -13.476189}
+        - {x: 10.285721, y: 12.523811}
+        - {x: 6.285721, y: 15.523811}
+    - name: player_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.452377, y: 15.523811}
+        - {x: -12.452377, y: 8.523811}
+        - {x: -12.452377, y: -15.476189}
+        - {x: -7.4523773, y: -24.476189}
+        - {x: 9.547623, y: -24.476189}
+        - {x: 9.547623, y: 15.523811}
+    - name: player_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.190475, y: 15.523811}
+        - {x: -11.190475, y: 13.523811}
+        - {x: -11.190475, y: -21.476189}
+        - {x: -3.1904755, y: -24.476189}
+        - {x: 7.8095245, y: -24.476189}
+        - {x: 10.809525, y: -10.476189}
+        - {x: 10.809525, y: 14.523811}
+        - {x: 7.8095245, y: 15.523811}
+    - name: player_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.428558, y: 15.523811}
+        - {x: -11.428558, y: -22.476189}
+        - {x: -6.4285583, y: -24.476189}
+        - {x: 5.5714417, y: -24.476189}
+        - {x: 9.571442, y: -23.476189}
+        - {x: 10.571442, y: -21.476189}
+        - {x: 10.571442, y: 13.523811}
+        - {x: 7.5714417, y: 15.523811}
+    - name: player_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.3333435, y: 15.523811}
+        - {x: -4.6666565, y: 15.523811}
+        - {x: -11.6666565, y: 13.523811}
+        - {x: -12.6666565, y: 10.523811}
+        - {x: -12.6666565, y: -22.476189}
+        - {x: -7.6666565, y: -24.476189}
+        - {x: 9.3333435, y: -24.476189}
+        - {x: 10.3333435, y: -10.476189}
+        - {x: 10.3333435, y: 12.523811}
+    - name: player_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.404755, y: 15.523811}
+        - {x: -13.404755, y: -24.476189}
+        - {x: 8.595245, y: -24.476189}
+        - {x: 10.595245, y: -7.4761887}
+        - {x: 10.595245, y: 13.523811}
+        - {x: 7.5952454, y: 15.523811}
+    - name: player_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.142853, y: 15.523811}
+        - {x: -11.142853, y: -24.476189}
+        - {x: 6.857147, y: -24.476189}
+        - {x: 9.857147, y: -23.476189}
+        - {x: 10.857147, y: -20.476189}
+        - {x: 10.857147, y: 12.523811}
+        - {x: 9.857147, y: 15.523811}
+    - name: player_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.380951, y: 15.523811}
+        - {x: -12.380951, y: 13.523811}
+        - {x: -12.380951, y: -17.476189}
+        - {x: -11.380951, y: -22.476189}
+        - {x: -7.380951, y: -24.476189}
+        - {x: 5.619049, y: -24.476189}
+        - {x: 9.619049, y: -23.476189}
+        - {x: 10.619049, y: -16.476189}
+        - {x: 10.619049, y: 11.523811}
+        - {x: 7.619049, y: 15.523811}
+    - name: player_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.6190186, y: 15.523811}
+        - {x: -11.619019, y: 13.523811}
+        - {x: -11.619019, y: -23.476189}
+        - {x: -8.619019, y: -24.476189}
+        - {x: 9.380981, y: -24.476189}
+        - {x: 10.380981, y: -20.476189}
+        - {x: 10.380981, y: 14.523811}
+        - {x: 9.380981, y: 15.523811}
+    - name: player_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3571167, y: 15.523811}
+        - {x: -12.357117, y: 10.523811}
+        - {x: -12.357117, y: -22.476189}
+        - {x: -7.3571167, y: -24.476189}
+        - {x: 9.642883, y: -24.476189}
+        - {x: 10.642883, y: -18.476189}
+        - {x: 10.642883, y: 9.523811}
+        - {x: 8.642883, y: 15.523811}
+    - name: player_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 15.761906}
+        - {x: -11.5, y: 14.761906}
+        - {x: -11.5, y: -12.238094}
+        - {x: -9.5, y: -24.238094}
+        - {x: 8.5, y: -24.238094}
+        - {x: 8.5, y: 14.761906}
+        - {x: 7.5, y: 15.761906}
+    - name: player_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.2380943, y: 15.761906}
+        - {x: -11.238094, y: 14.761906}
+        - {x: -11.238094, y: -20.238094}
+        - {x: -10.238094, y: -23.238094}
+        - {x: -5.2380943, y: -24.238094}
+        - {x: 10.761906, y: -24.238094}
+        - {x: 12.761906, y: -17.238094}
+        - {x: 12.761906, y: 1.7619057}
+        - {x: 8.761906, y: 15.761906}
+    - name: player_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.476189, y: 15.761906}
+        - {x: -13.476189, y: 14.761906}
+        - {x: -13.476189, y: -11.238094}
+        - {x: -8.476189, y: -21.238094}
+        - {x: -6.4761887, y: -24.238094}
+        - {x: 7.5238113, y: -24.238094}
+        - {x: 15.523811, y: -17.238094}
+        - {x: 15.523811, y: 4.7619057}
+        - {x: 11.523811, y: 15.761906}
+    - name: player_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.714279, y: 15.761906}
+        - {x: -14.714279, y: -24.238094}
+        - {x: 11.285721, y: -24.238094}
+        - {x: 17.28572, y: -11.238094}
+        - {x: 17.28572, y: 1.7619057}
+        - {x: 8.285721, y: 15.761906}
+    - name: player_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.452377, y: 15.761906}
+        - {x: -14.452377, y: 4.7619057}
+        - {x: -14.452377, y: -17.238094}
+        - {x: -10.452377, y: -24.238094}
+        - {x: 10.547623, y: -24.238094}
+        - {x: 16.547623, y: -14.238094}
+        - {x: 16.547623, y: 4.7619057}
+        - {x: 6.5476227, y: 15.761906}
+    - name: player_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.190475, y: 15.761906}
+        - {x: -10.190475, y: 11.761906}
+        - {x: -10.190475, y: -23.238094}
+        - {x: -9.190475, y: -24.238094}
+        - {x: 11.809525, y: -24.238094}
+        - {x: 18.809525, y: -11.238094}
+        - {x: 18.809525, y: 4.7619057}
+        - {x: 4.8095245, y: 15.761906}
+    - name: player_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.428558, y: 15.761906}
+        - {x: -12.428558, y: 14.761906}
+        - {x: -12.428558, y: -11.238094}
+        - {x: -11.428558, y: -22.238094}
+        - {x: -9.428558, y: -24.238094}
+        - {x: 10.571442, y: -24.238094}
+        - {x: 18.571442, y: -14.238094}
+        - {x: 18.571442, y: 7.7619057}
+        - {x: 12.571442, y: 15.761906}
+    - name: player_spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.3333435, y: 15.761906}
+        - {x: -15.6666565, y: 15.761906}
+        - {x: -15.6666565, y: -24.238094}
+        - {x: 9.3333435, y: -24.238094}
+        - {x: 17.333344, y: -4.2380943}
+        - {x: 17.333344, y: 6.7619057}
+        - {x: 11.3333435, y: 13.761906}
+    - name: player_spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.404755, y: 15.761906}
+        - {x: -16.404755, y: 8.761906}
+        - {x: -16.404755, y: -20.238094}
+        - {x: -10.404755, y: -24.238094}
+        - {x: 1.5952454, y: -24.238094}
+        - {x: 6.5952454, y: -23.238094}
+        - {x: 16.595245, y: -15.238094}
+        - {x: 16.595245, y: 7.7619057}
+        - {x: 11.595245, y: 15.761906}
+    - name: player_spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.857147, y: 15.761906}
+        - {x: -13.142853, y: 15.761906}
+        - {x: -13.142853, y: -24.238094}
+        - {x: 11.857147, y: -24.238094}
+        - {x: 17.857147, y: -15.238094}
+        - {x: 17.857147, y: 6.7619057}
+        - {x: 13.857147, y: 14.761906}
+    - name: player_spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.619049, y: 15.761906}
+        - {x: -10.380951, y: 15.761906}
+        - {x: -13.380951, y: 8.761906}
+        - {x: -13.380951, y: -14.238094}
+        - {x: -9.380951, y: -24.238094}
+        - {x: 11.619049, y: -24.238094}
+        - {x: 17.61905, y: -14.238094}
+        - {x: 17.61905, y: 5.7619057}
+        - {x: 13.619049, y: 14.761906}
+    - name: player_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.619019, y: 15.761906}
+        - {x: -10.619019, y: 13.761906}
+        - {x: -10.619019, y: -22.238094}
+        - {x: -9.619019, y: -24.238094}
+        - {x: 17.380981, y: -24.238094}
+        - {x: 17.380981, y: 15.761906}
+    - name: player_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.357117, y: 15.761906}
+        - {x: -11.357117, y: 14.761906}
+        - {x: -13.357117, y: 8.761906}
+        - {x: -13.357117, y: -12.238094}
+        - {x: -9.357117, y: -24.238094}
+        - {x: 3.6428833, y: -24.238094}
+        - {x: 10.642883, y: -22.238094}
+        - {x: 16.642883, y: -14.238094}
+        - {x: 16.642883, y: 4.7619057}
+        - {x: 11.642883, y: 15.761906}
+    - name: player_spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 15.5}
+        - {x: -13.5, y: 12.5}
+        - {x: -13.5, y: -23.5}
+        - {x: -11.5, y: -24.5}
+        - {x: 13.5, y: -24.5}
+        - {x: 13.5, y: 3.5}
+        - {x: 9.5, y: 15.5}
+    - name: player_spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2380943, y: 14.5}
+        - {x: -12.238094, y: -3.5}
+        - {x: -12.238094, y: -21.5}
+        - {x: -9.238094, y: -24.5}
+        - {x: 12.761906, y: -24.5}
+        - {x: 15.761906, y: -20.5}
+        - {x: 15.761906, y: -1.5}
+        - {x: 11.761906, y: 14.5}
+    - name: player_spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.523811, y: 9.5}
+        - {x: -3.4761887, y: 9.5}
+        - {x: -11.476189, y: 6.5}
+        - {x: -11.476189, y: -24.5}
+        - {x: 12.523811, y: -24.5}
+        - {x: 15.523811, y: -22.5}
+        - {x: 15.523811, y: -3.5}
+        - {x: 13.523811, y: 6.5}
+    - name: player_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.714279, y: 6.5}
+        - {x: -12.714279, y: 1.5}
+        - {x: -12.714279, y: -24.5}
+        - {x: 14.285721, y: -24.5}
+        - {x: 15.285721, y: -20.5}
+        - {x: 15.285721, y: 3.5}
+        - {x: 8.285721, y: 6.5}
+    - name: player_spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.452377, y: 1.5}
+        - {x: -12.452377, y: -2.5}
+        - {x: -12.452377, y: -24.5}
+        - {x: 16.547623, y: -24.5}
+        - {x: 16.547623, y: -2.5}
+        - {x: 8.547623, y: 1.5}
+    - name: player_spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.190475, y: 5.5}
+        - {x: -12.190475, y: -24.5}
+        - {x: 18.809525, y: -24.5}
+        - {x: 18.809525, y: 5.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
