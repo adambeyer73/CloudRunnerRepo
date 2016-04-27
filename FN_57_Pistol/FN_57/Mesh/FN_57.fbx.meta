@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: ea78624faa89eea4a9a8acc203f01b62
+timeCreated: 1457824811
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: FN_57
+    100006: FN_57_Pistol
+    100008: Lamp
+    100010: Lamp.001
+    100012: Mag
+    100014: Mag_end
+    100016: Parent
+    100018: Safety
+    100020: Safety_end
+    100022: Slider
+    100024: Slider_end
+    100026: Trigger
+    100028: Trigger_end
+    100030: Armature
+    100032: Plane
+    100034: Plane.001
+    100036: Plane.001_MeshPart0
+    100038: Plane.001_MeshPart1
+    100040: FN_Pistol
+    400000: Camera
+    400002: //RootNode
+    400004: FN_57
+    400006: FN_57_Pistol
+    400008: Lamp
+    400010: Lamp.001
+    400012: Mag
+    400014: Mag_end
+    400016: Parent
+    400018: Safety
+    400020: Safety_end
+    400022: Slider
+    400024: Slider_end
+    400026: Trigger
+    400028: Trigger_end
+    400030: Armature
+    400032: Plane
+    400034: Plane.001
+    400036: Plane.001_MeshPart0
+    400038: Plane.001_MeshPart1
+    400040: FN_Pistol
+    2300000: Plane.001_MeshPart0
+    2300002: Plane.001_MeshPart1
+    3300000: Plane.001_MeshPart0
+    3300002: Plane.001_MeshPart1
+    4300000: FN_57
+    4300002: Plane
+    4300004: Plane.001_MeshPart0
+    4300006: Plane.001_MeshPart1
+    4300008: FN_Pistol
+    7400000: Default Take
+    7400002: PoseLib
+    7400004: PoseLib_002
+    9500000: //RootNode
+    13700000: FN_57
+    13700002: Plane
+    13700004: FN_Pistol
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
