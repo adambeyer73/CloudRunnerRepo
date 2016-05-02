@@ -7,13 +7,13 @@ public class HealthManager : MonoBehaviour {
 
 	public int maxPlayerHealth;
 	public static int playerHealth;
-	Text text;
+	//Text text;
 	private LevelManager levelManager;
 	public bool isDead;
-
+    public Slider healthBar;
 	void Start(){
-		text = GetComponent<Text> ();
-
+	//	text = GetComponent<Text> ();
+        healthBar = GetComponent<Slider>();
 		playerHealth = maxPlayerHealth;
 
 		levelManager = FindObjectOfType<LevelManager> ();
@@ -26,7 +26,11 @@ public class HealthManager : MonoBehaviour {
 			levelManager.RespawnPlayer ();
 			isDead = true;
 		}
-		text.text = "" + playerHealth;
+        if (playerHealth > maxPlayerHealth)
+            playerHealth = maxPlayerHealth;
+	//	text.text = "" + playerHealth;
+        healthBar.value = playerHealth;
+        
 	}
 
 	public static void HurtPlayer(int damageToGive){
