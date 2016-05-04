@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4AFDD833-5C9F-425E-3437-91F51CA6A2F5}") = "CloudRunnerRepo", "Assembly-CSharp.csproj", "{A4286771-9AC7-25CE-743A-10AF7F5DFA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4286771-9AC7-25CE-743A-10AF7F5DFA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4286771-9AC7-25CE-743A-10AF7F5DFA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4286771-9AC7-25CE-743A-10AF7F5DFA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4286771-9AC7-25CE-743A-10AF7F5DFA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
