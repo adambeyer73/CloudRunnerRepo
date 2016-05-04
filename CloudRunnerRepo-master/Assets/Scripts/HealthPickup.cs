@@ -11,16 +11,19 @@ public class HealthPickup : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        transform.Rotate(new Vector3(15, 30, 45) * Time.deltaTime);
 	
 	}
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter(Collider other)
     {
-           if (other.GetComponent<PlayerMove>() == null)
-          return;
-       // pickupSound.Play();
+    //   if (other.GetComponent<PlayerMove>() == null)
+  //   return;
+    
         HealthManager.HurtPlayer(-healthToGive);
-
+     //   GameObject obj = GameObject.FindGameObjectWithTag("Box");
         Destroy(gameObject);
+        Destroy(transform.parent.gameObject);
+     
     }
 }

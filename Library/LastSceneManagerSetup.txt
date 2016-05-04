@@ -1,4 +1,4 @@
 sceneSetups:
-- path: CloudRunnerRepo-master/CloudRunnerRepo-master/Assets/testScene.unity
+- path: Assets/Levels/Level1.unity
   isLoaded: 1
   isActive: 1

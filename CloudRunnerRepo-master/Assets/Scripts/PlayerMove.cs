@@ -42,6 +42,7 @@ public class PlayerMove : MonoBehaviour {
             }
             else if(has_double_jump)
             {
+                GetComponent<Rigidbody2D>().gravityScale = 0.50f;
                 GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
                 has_double_jump = false;
             }

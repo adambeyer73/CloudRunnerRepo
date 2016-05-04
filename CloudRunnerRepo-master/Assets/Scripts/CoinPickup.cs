@@ -18,10 +18,11 @@ public class CoinPickup : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D other)
     {
-       if (other.GetComponent<PlayerMove>() == null)
-            return;
+    //if (other.GetComponent<PlayerMove>() == null)
+      //  return;
         ScoreManager.AddPoints(pointsToAdd);
-
+    //    GameObject obj = GameObject.FindGameObjectWithTag("Box");
         Destroy(gameObject);
+        Destroy(transform.parent.gameObject);
     }
 }
